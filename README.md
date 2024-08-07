@@ -5,7 +5,7 @@ VERSION file incrementor written in Go, should work on versions with the format 
 ## Usage:
 
 ```console
-❯./chiver --help
+❯ ./chiver --help
 Usage of chiver:
   -M    Major release x.0.0
   -m    Minor release 1.x.0
